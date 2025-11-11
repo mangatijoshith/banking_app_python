@@ -33,4 +33,4 @@ This project includes:
 ## Run the App
 
 ```bash
-python bank_cli.py
+python bank_of_joe.py
